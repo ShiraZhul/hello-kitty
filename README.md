@@ -1,2 +1,2 @@
 # hello-kitty
-just another hello kitty
+just another hello kitty :P
